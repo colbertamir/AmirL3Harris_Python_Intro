@@ -1,5 +1,7 @@
 import os
 import shutil
 
-source_folder = r"C:\Users\colbe\Pictures"
+folder = "Images"
+
+files = os.listdir(folder)
 
