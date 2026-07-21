@@ -16,8 +16,8 @@ import shutil
 ### os: Works with folders
 #### Ex.
 
-List directories/folders - `os.listdir()`
-Creates a directory/folder - `os.mkdir()`
-Creates a valid file path, connects things - `os.path.join`
+- List directories/folders: `os.listdir()`
+- Creates a directory/folder: `os.mkdir()`
+- Creates a valid file path, connects things: `os.path.join`
 
 
