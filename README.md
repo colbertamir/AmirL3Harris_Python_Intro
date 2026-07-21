@@ -20,4 +20,8 @@ import shutil
 - Creates a directory/folder: `os.mkdir()`
 - Creates a valid file path, connects things: `os.path.join`
 
+### shutil: Copies and moves things (shutil = shuttle, which also moves things.. get it?)
+#### Ex.
+`shutil.move()`
+
 
